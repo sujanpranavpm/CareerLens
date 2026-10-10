@@ -1,0 +1,180 @@
+[
+  {
+    "id": "backend_developer",
+    "title": "Backend Developer",
+    "onet_code": "15-1252.00",
+    "description": "Designs, develops, and maintains server-side applications, APIs, and databases. Works with frameworks, cloud platforms, and data storage systems.",
+    "required_skills": [
+      {"name": "Python",         "importance": 5},
+      {"name": "SQL",            "importance": 5},
+      {"name": "REST APIs",      "importance": 5},
+      {"name": "Git",            "importance": 4},
+      {"name": "Linux",          "importance": 4},
+      {"name": "Docker",         "importance": 4},
+      {"name": "FastAPI",        "importance": 3},
+      {"name": "PostgreSQL",     "importance": 3},
+      {"name": "Redis",          "importance": 3},
+      {"name": "AWS",            "importance": 3},
+      {"name": "Java",           "importance": 3},
+      {"name": "Spring Boot",    "importance": 2},
+      {"name": "Kubernetes",     "importance": 2},
+      {"name": "MongoDB",        "importance": 2},
+      {"name": "CI/CD",          "importance": 2}
+    ]
+  },
+  {
+    "id": "frontend_developer",
+    "title": "Frontend Developer",
+    "onet_code": "15-1254.00",
+    "description": "Builds interactive web interfaces and user experiences using modern JavaScript frameworks and responsive design principles.",
+    "required_skills": [
+      {"name": "JavaScript",     "importance": 5},
+      {"name": "HTML",           "importance": 5},
+      {"name": "CSS",            "importance": 5},
+      {"name": "React",          "importance": 5},
+      {"name": "TypeScript",     "importance": 4},
+      {"name": "Git",            "importance": 4},
+      {"name": "REST APIs",      "importance": 4},
+      {"name": "Vue.js",         "importance": 3},
+      {"name": "Angular",        "importance": 3},
+      {"name": "Node.js",        "importance": 3},
+      {"name": "Webpack",        "importance": 2},
+      {"name": "Testing",        "importance": 2},
+      {"name": "Figma",          "importance": 2}
+    ]
+  },
+  {
+    "id": "fullstack_developer",
+    "title": "Full Stack Developer",
+    "onet_code": "15-1252.00",
+    "description": "Develops both client-side and server-side software, bridging frontend interfaces with backend logic, databases, and APIs.",
+    "required_skills": [
+      {"name": "JavaScript",     "importance": 5},
+      {"name": "Python",         "importance": 5},
+      {"name": "React",          "importance": 5},
+      {"name": "SQL",            "importance": 4},
+      {"name": "Node.js",        "importance": 4},
+      {"name": "REST APIs",      "importance": 5},
+      {"name": "Git",            "importance": 4},
+      {"name": "Docker",         "importance": 4},
+      {"name": "PostgreSQL",     "importance": 3},
+      {"name": "MongoDB",        "importance": 3},
+      {"name": "TypeScript",     "importance": 3},
+      {"name": "Linux",          "importance": 3},
+      {"name": "AWS",            "importance": 3},
+      {"name": "CI/CD",          "importance": 2}
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "onet_code": "15-2051.00",
+    "description": "Applies statistical modeling, machine learning, and data analysis to extract insights and build predictive models from large datasets.",
+    "required_skills": [
+      {"name": "Python",              "importance": 5},
+      {"name": "Machine Learning",    "importance": 5},
+      {"name": "SQL",                 "importance": 5},
+      {"name": "Statistics",          "importance": 5},
+      {"name": "Pandas",              "importance": 5},
+      {"name": "NumPy",               "importance": 4},
+      {"name": "Scikit-learn",        "importance": 4},
+      {"name": "Data Visualization",  "importance": 4},
+      {"name": "Jupyter",             "importance": 4},
+      {"name": "TensorFlow",          "importance": 3},
+      {"name": "PyTorch",             "importance": 3},
+      {"name": "R",                   "importance": 3},
+      {"name": "Big Data",            "importance": 3},
+      {"name": "Git",                 "importance": 3},
+      {"name": "AWS",                 "importance": 2}
+    ]
+  },
+  {
+    "id": "devops_engineer",
+    "title": "DevOps Engineer",
+    "onet_code": "15-1244.00",
+    "description": "Bridges development and operations by automating infrastructure, CI/CD pipelines, and ensuring reliability and scalability of systems.",
+    "required_skills": [
+      {"name": "Linux",          "importance": 5},
+      {"name": "Docker",         "importance": 5},
+      {"name": "Kubernetes",     "importance": 5},
+      {"name": "CI/CD",          "importance": 5},
+      {"name": "AWS",            "importance": 5},
+      {"name": "Git",            "importance": 4},
+      {"name": "Terraform",      "importance": 4},
+      {"name": "Python",         "importance": 4},
+      {"name": "Ansible",        "importance": 4},
+      {"name": "Bash",           "importance": 4},
+      {"name": "Monitoring",     "importance": 3},
+      {"name": "Azure",          "importance": 3},
+      {"name": "GitHub Actions", "importance": 3},
+      {"name": "Nginx",          "importance": 2},
+      {"name": "SQL",            "importance": 2}
+    ]
+  },
+  {
+    "id": "database_administrator",
+    "title": "Database Administrator",
+    "onet_code": "15-1242.00",
+    "description": "Manages, optimizes, and secures database systems. Ensures availability, integrity, and performance of organizational data.",
+    "required_skills": [
+      {"name": "SQL",            "importance": 5},
+      {"name": "PostgreSQL",     "importance": 5},
+      {"name": "MySQL",          "importance": 5},
+      {"name": "Database Design","importance": 5},
+      {"name": "Performance Tuning","importance": 4},
+      {"name": "Backup & Recovery","importance": 4},
+      {"name": "MongoDB",        "importance": 4},
+      {"name": "Linux",          "importance": 4},
+      {"name": "Python",         "importance": 3},
+      {"name": "Redis",          "importance": 3},
+      {"name": "Oracle",         "importance": 3},
+      {"name": "AWS",            "importance": 3},
+      {"name": "Git",            "importance": 2},
+      {"name": "Bash",           "importance": 2}
+    ]
+  },
+  {
+    "id": "infosec_engineer",
+    "title": "Information Security Engineer",
+    "onet_code": "15-1299.05",
+    "description": "Designs and implements security systems, performs vulnerability assessments, and protects organizational infrastructure from threats.",
+    "required_skills": [
+      {"name": "Linux",          "importance": 5},
+      {"name": "Networking",     "importance": 5},
+      {"name": "Python",         "importance": 5},
+      {"name": "Cybersecurity",  "importance": 5},
+      {"name": "Firewalls",      "importance": 4},
+      {"name": "Penetration Testing","importance": 4},
+      {"name": "SIEM",           "importance": 4},
+      {"name": "Cryptography",   "importance": 4},
+      {"name": "Docker",         "importance": 3},
+      {"name": "Kubernetes",     "importance": 3},
+      {"name": "AWS",            "importance": 3},
+      {"name": "Git",            "importance": 3},
+      {"name": "SQL",            "importance": 2},
+      {"name": "Bash",           "importance": 2}
+    ]
+  },
+  {
+    "id": "systems_analyst",
+    "title": "Computer Systems Analyst",
+    "onet_code": "15-1211.00",
+    "description": "Analyzes business needs and designs IT solutions. Works with stakeholders to integrate systems and improve organizational efficiency.",
+    "required_skills": [
+      {"name": "SQL",                 "importance": 5},
+      {"name": "Requirements Analysis","importance": 5},
+      {"name": "System Design",       "importance": 5},
+      {"name": "Python",              "importance": 4},
+      {"name": "Data Analysis",       "importance": 4},
+      {"name": "UML",                 "importance": 4},
+      {"name": "Documentation",       "importance": 4},
+      {"name": "REST APIs",           "importance": 3},
+      {"name": "Agile",               "importance": 3},
+      {"name": "Excel/Spreadsheets",  "importance": 3},
+      {"name": "Project Management",  "importance": 3},
+      {"name": "Testing",             "importance": 3},
+      {"name": "Git",                 "importance": 2},
+      {"name": "Linux",               "importance": 2}
+    ]
+  }
+]

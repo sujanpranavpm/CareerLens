@@ -1,0 +1,160 @@
+{
+  "_meta": {
+    "version": "V1",
+    "note": "DEMO/MOCK DATA — These are curated sample job descriptions for V1 skill demand analysis. They do NOT represent real-time job postings.",
+    "roles": 8,
+    "jds_per_role": "3-5"
+  },
+  "job_descriptions": [
+    {
+      "role_id": "backend_developer",
+      "company": "TechCorp India (Mock)",
+      "title": "Backend Software Engineer",
+      "text": "We are looking for a Backend Software Engineer with strong Python skills. The candidate should have hands-on experience with FastAPI or Django REST Framework. Proficiency in SQL databases like PostgreSQL and MySQL is required. Experience with Docker and container orchestration using Kubernetes is a plus. The role requires working with Redis for caching, implementing REST APIs, and deploying on AWS. Knowledge of Git version control and Linux is essential. Experience with CI/CD pipelines and automated testing is expected."
+    },
+    {
+      "role_id": "backend_developer",
+      "company": "StartupXYZ (Mock)",
+      "title": "Python Backend Developer",
+      "text": "Join our team as a Python Backend Developer. You will build high-performance APIs using Python and FastAPI. Strong knowledge of PostgreSQL, SQL query optimization, and database design is required. Experience with Docker, Linux server management, and Git workflows is necessary. Familiarity with AWS services like EC2, S3, and RDS is preferred. You should understand authentication systems, REST API design patterns, and basic DevOps practices."
+    },
+    {
+      "role_id": "backend_developer",
+      "company": "Enterprise Solutions (Mock)",
+      "title": "Java Backend Engineer",
+      "text": "We need a Java Backend Engineer with Spring Boot experience. Must have strong SQL skills and experience with relational databases such as MySQL and PostgreSQL. Knowledge of Docker, Kubernetes, and cloud platforms like AWS or Azure is required. Experience building microservices, REST APIs, and working with Git is essential. Redis for caching and message queues like Kafka are a plus. CI/CD pipeline experience using Jenkins or GitHub Actions preferred."
+    },
+    {
+      "role_id": "backend_developer",
+      "company": "DataDriven Co (Mock)",
+      "title": "Senior Backend Developer",
+      "text": "Senior Backend Developer needed with 3+ years experience in Python or Node.js. Expert-level SQL, database design, and query optimization skills required. Docker containerization and Kubernetes orchestration experience essential. Must have hands-on AWS or GCP cloud experience. Strong REST API development, Git, and Linux administration skills. MongoDB and Redis experience a big plus. Familiarity with microservices architecture and CI/CD pipelines strongly preferred."
+    },
+    {
+      "role_id": "frontend_developer",
+      "company": "WebAgency (Mock)",
+      "title": "Frontend React Developer",
+      "text": "Looking for a Frontend Developer with strong React.js experience. Proficiency in JavaScript, HTML5, CSS3, and TypeScript is required. Experience with state management (Redux or Context API), REST API integration, and responsive design is essential. Knowledge of Vue.js or Angular is a plus. Must be comfortable with Git, Webpack, and modern frontend tooling. Testing experience with Jest and React Testing Library is preferred."
+    },
+    {
+      "role_id": "frontend_developer",
+      "company": "ProductHouse (Mock)",
+      "title": "JavaScript UI Developer",
+      "text": "We are hiring a JavaScript UI Developer skilled in modern frameworks like React and Vue.js. Strong HTML, CSS, and JavaScript fundamentals required. TypeScript knowledge is expected. Experience with REST API consumption, Git workflows, and cross-browser compatibility testing is necessary. Figma or similar design tool experience is a bonus. Node.js for build tools and server-side rendering knowledge is desirable."
+    },
+    {
+      "role_id": "frontend_developer",
+      "company": "FinTech Startup (Mock)",
+      "title": "Senior Frontend Engineer",
+      "text": "Senior Frontend Engineer needed. Must have deep JavaScript and TypeScript expertise, React or Angular experience, and an eye for UX. Strong HTML, CSS, and responsive design skills are essential. Experience with GraphQL APIs, REST APIs, and state management libraries is required. Git, CI/CD, and performance optimization knowledge are important. Testing with Cypress or Playwright is a plus."
+    },
+    {
+      "role_id": "fullstack_developer",
+      "company": "SaaS Platform (Mock)",
+      "title": "Full Stack Developer",
+      "text": "Full Stack Developer needed with experience in React on the frontend and Python or Node.js on the backend. Strong SQL and PostgreSQL skills required. Hands-on Docker containerization and AWS deployment experience is essential. Must know REST API design, Git, and TypeScript. MongoDB experience is a plus. Understanding of CI/CD pipelines, Linux, and cloud infrastructure is expected."
+    },
+    {
+      "role_id": "fullstack_developer",
+      "company": "EdTech Company (Mock)",
+      "title": "MERN Stack Developer",
+      "text": "MERN Stack Developer wanted. Must have strong JavaScript, React, Node.js, and MongoDB experience. Proficiency in REST API development, Git workflows, and responsive CSS is required. SQL knowledge is a plus. Docker experience is preferred. Familiarity with AWS for deployments and TypeScript is highly desirable. Testing with Jest and CI/CD knowledge is expected."
+    },
+    {
+      "role_id": "fullstack_developer",
+      "company": "ConsultingFirm (Mock)",
+      "title": "Full Stack Engineer",
+      "text": "We need a Full Stack Engineer with Python backend and React frontend skills. PostgreSQL and SQL expertise is mandatory. Docker, Kubernetes, and AWS experience required. Knowledge of REST APIs, Git, Linux, and CI/CD is essential. TypeScript and Node.js knowledge is preferred. MongoDB and Redis experience is a bonus."
+    },
+    {
+      "role_id": "data_scientist",
+      "company": "Analytics Corp (Mock)",
+      "title": "Data Scientist",
+      "text": "Hiring a Data Scientist with strong Python skills including Pandas, NumPy, Scikit-learn, and Matplotlib. Machine learning model development, statistical analysis, and feature engineering experience required. SQL proficiency for data extraction is essential. Experience with TensorFlow or PyTorch is a plus. Jupyter Notebooks for exploration and Git for version control required. Knowledge of data visualization tools and big data platforms is preferred."
+    },
+    {
+      "role_id": "data_scientist",
+      "company": "AI Research Lab (Mock)",
+      "title": "ML Data Scientist",
+      "text": "ML Data Scientist needed with expert Python skills. Scikit-learn, TensorFlow, and PyTorch experience required. Strong statistics, machine learning, and deep learning fundamentals. SQL for data pipeline work is essential. Pandas and NumPy proficiency mandatory. AWS SageMaker or GCP AI Platform experience preferred. R statistical programming is a plus. Jupyter and Git workflow experience required."
+    },
+    {
+      "role_id": "data_scientist",
+      "company": "E-commerce Giant (Mock)",
+      "title": "Senior Data Scientist",
+      "text": "Senior Data Scientist role. Expert in Python, machine learning, and statistical modeling. Pandas, NumPy, Scikit-learn daily tools. SQL expertise for large-scale data querying. TensorFlow or PyTorch for deep learning models. Big Data tools like Spark or Hadoop preferred. Data visualization with Matplotlib, Seaborn, or Tableau. AWS or Azure cloud for model deployment. Git version control mandatory."
+    },
+    {
+      "role_id": "devops_engineer",
+      "company": "CloudScale (Mock)",
+      "title": "DevOps Engineer",
+      "text": "DevOps Engineer with strong Linux administration skills. Docker containerization and Kubernetes orchestration experience required. CI/CD pipeline creation with Jenkins, GitHub Actions, or GitLab CI is essential. Terraform or Ansible for infrastructure as code. AWS or Azure cloud platform experience mandatory. Python or Bash scripting skills. Monitoring with Prometheus, Grafana, or ELK stack. Git workflow and branching strategies required."
+    },
+    {
+      "role_id": "devops_engineer",
+      "company": "FinancialTech (Mock)",
+      "title": "Senior DevOps/Cloud Engineer",
+      "text": "Senior DevOps Engineer needed. Expert Linux, Docker, Kubernetes required. CI/CD with GitHub Actions and Jenkins. AWS (EC2, ECS, EKS, S3, RDS) expertise mandatory. Terraform for infrastructure-as-code. Ansible for configuration management. Python and Bash scripting. Nginx and load balancing knowledge. Monitoring and alerting with Prometheus and Grafana. Git branching strategies and code review practices."
+    },
+    {
+      "role_id": "devops_engineer",
+      "company": "TechOps India (Mock)",
+      "title": "Cloud DevOps Specialist",
+      "text": "Cloud DevOps Specialist role. Strong AWS and Azure cloud platform knowledge. Docker and Kubernetes for container management. CI/CD automation with Jenkins and GitHub Actions. Terraform and Ansible for infrastructure management. Linux system administration. Python scripting for automation tasks. Bash shell scripting. Monitoring tools like Datadog or Prometheus. Git version control."
+    },
+    {
+      "role_id": "database_administrator",
+      "company": "DataSystems Ltd (Mock)",
+      "title": "Database Administrator",
+      "text": "DBA needed with expert SQL skills and deep PostgreSQL and MySQL experience. Database design, normalization, and performance tuning required. Backup and recovery strategy implementation experience essential. MongoDB NoSQL database management is a plus. Linux server administration for database hosting. Python scripting for automation. Redis in-memory database experience. AWS RDS or Aurora database management preferred."
+    },
+    {
+      "role_id": "database_administrator",
+      "company": "BankTech (Mock)",
+      "title": "Senior DBA",
+      "text": "Senior DBA with Oracle, PostgreSQL, and MySQL expertise. Advanced SQL query optimization and database performance tuning skills required. Database backup, recovery, and high availability setup experience. Linux administration skills essential. Python scripting for maintenance automation. Redis caching layer management. AWS RDS and cloud database migration experience. Git for version-controlled schema management."
+    },
+    {
+      "role_id": "database_administrator",
+      "company": "RetailChain (Mock)",
+      "title": "Database Engineer",
+      "text": "Database Engineer with strong SQL and schema design skills. PostgreSQL and MySQL expertise required. MongoDB for document storage management. Performance tuning, indexing, and query optimization. Backup and disaster recovery planning. Linux server management. Python for scripting and automation. AWS or GCP cloud database services. Basic understanding of Docker for containerized databases."
+    },
+    {
+      "role_id": "infosec_engineer",
+      "company": "SecureNet (Mock)",
+      "title": "Information Security Engineer",
+      "text": "Information Security Engineer with Linux and networking expertise. Python scripting for security automation required. Penetration testing and vulnerability assessment experience essential. SIEM tools (Splunk, IBM QRadar) knowledge required. Firewall configuration, IDS/IPS management. Cryptography and PKI fundamentals. Docker and Kubernetes security hardening. AWS security services (IAM, GuardDuty, Security Hub). Git for security tooling."
+    },
+    {
+      "role_id": "infosec_engineer",
+      "company": "CyberDefense (Mock)",
+      "title": "Cybersecurity Engineer",
+      "text": "Cybersecurity Engineer needed with strong Linux and Python skills. Hands-on penetration testing with tools like Metasploit, Burp Suite. Network security, firewall, and VPN management. SIEM and log analysis experience. Cryptography, SSL/TLS, and certificate management. Docker container security. AWS cloud security architecture. Incident response planning and execution. Kubernetes security policies. Git for tooling and automation."
+    },
+    {
+      "role_id": "infosec_engineer",
+      "company": "GovTech (Mock)",
+      "title": "Application Security Engineer",
+      "text": "Application Security Engineer with Python and networking expertise. Secure coding practices and code review experience. Penetration testing and OWASP Top 10 knowledge required. Cryptography and data encryption implementation. SIEM monitoring and alert response. Linux administration and hardening. Docker and Kubernetes security configurations. AWS IAM and security group management. SQL injection and XSS prevention techniques."
+    },
+    {
+      "role_id": "systems_analyst",
+      "company": "ConsultingGroup (Mock)",
+      "title": "IT Systems Analyst",
+      "text": "Systems Analyst with strong SQL and data analysis skills needed. Requirements gathering, documentation, and UML modeling experience. Python for data analysis and automation. REST API integration experience. Agile methodology and project management skills. Excel/spreadsheet proficiency for reporting. System design and architecture documentation. Testing and quality assurance processes. Git for version control. Stakeholder communication and business process analysis."
+    },
+    {
+      "role_id": "systems_analyst",
+      "company": "LogisticsIQ (Mock)",
+      "title": "Business Systems Analyst",
+      "text": "Business Systems Analyst with SQL expertise and data analysis skills. Requirements analysis, system design, and UML documentation. Python scripting for data processing. REST API consumption and integration. Agile/Scrum methodology experience. Excel and data visualization tools for reporting. ERP system integration experience. Testing and UAT facilitation. Project management fundamentals. Git for documentation version control."
+    },
+    {
+      "role_id": "systems_analyst",
+      "company": "HealthIT (Mock)",
+      "title": "Senior Systems Analyst",
+      "text": "Senior Systems Analyst needed. Expert SQL and database querying skills. Strong requirements analysis and system design capabilities. Python for automation and data extraction. UML, flowcharts, and technical documentation. REST API integration architecture. Agile project management. Data analysis and reporting with Excel and BI tools. Testing strategy definition. Stakeholder management and cross-functional collaboration. Git version control."
+    }
+  ]
+}

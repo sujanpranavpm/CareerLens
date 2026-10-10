@@ -1,0 +1,276 @@
+{
+  "_meta": {
+    "version": "V1",
+    "note": "Curated free learning resources per skill for V1 roadmap. All links are to free, publicly accessible resources."
+  },
+  "resources": {
+    "Python": [
+      {"title": "Python Official Tutorial", "url": "https://docs.python.org/3/tutorial/", "type": "docs"},
+      {"title": "CS50P — Python for Beginners (Harvard)", "url": "https://cs50.harvard.edu/python/", "type": "course"},
+      {"title": "Real Python Tutorials", "url": "https://realpython.com/", "type": "tutorial"}
+    ],
+    "SQL": [
+      {"title": "SQLZoo — Interactive SQL", "url": "https://sqlzoo.net/", "type": "interactive"},
+      {"title": "Mode Analytics SQL Tutorial", "url": "https://mode.com/sql-tutorial/", "type": "tutorial"},
+      {"title": "PostgreSQL Tutorial", "url": "https://www.postgresqltutorial.com/", "type": "tutorial"}
+    ],
+    "JavaScript": [
+      {"title": "The Odin Project — JavaScript", "url": "https://www.theodinproject.com/paths/full-stack-javascript", "type": "course"},
+      {"title": "MDN Web Docs — JavaScript", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript", "type": "docs"},
+      {"title": "JavaScript.info", "url": "https://javascript.info/", "type": "tutorial"}
+    ],
+    "TypeScript": [
+      {"title": "TypeScript Official Docs", "url": "https://www.typescriptlang.org/docs/", "type": "docs"},
+      {"title": "TypeScript Deep Dive (free book)", "url": "https://basarat.gitbook.io/typescript/", "type": "book"}
+    ],
+    "React": [
+      {"title": "React Official Docs", "url": "https://react.dev/", "type": "docs"},
+      {"title": "Full Stack Open — React (Helsinki University)", "url": "https://fullstackopen.com/en/", "type": "course"}
+    ],
+    "Vue.js": [
+      {"title": "Vue.js Official Guide", "url": "https://vuejs.org/guide/introduction.html", "type": "docs"},
+      {"title": "Vue School — Free Courses", "url": "https://vueschool.io/", "type": "course"}
+    ],
+    "Angular": [
+      {"title": "Angular Official Tutorial", "url": "https://angular.dev/tutorials", "type": "docs"}
+    ],
+    "Node.js": [
+      {"title": "Node.js Official Docs", "url": "https://nodejs.org/en/docs", "type": "docs"},
+      {"title": "The Odin Project — NodeJS", "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs", "type": "course"}
+    ],
+    "HTML": [
+      {"title": "MDN Web Docs — HTML", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML", "type": "docs"},
+      {"title": "The Odin Project — Foundations", "url": "https://www.theodinproject.com/paths/foundations", "type": "course"}
+    ],
+    "CSS": [
+      {"title": "MDN Web Docs — CSS", "url": "https://developer.mozilla.org/en-US/docs/Web/CSS", "type": "docs"},
+      {"title": "CSS Tricks", "url": "https://css-tricks.com/", "type": "tutorial"}
+    ],
+    "Docker": [
+      {"title": "Docker Official Get Started", "url": "https://docs.docker.com/get-started/", "type": "docs"},
+      {"title": "Play with Docker (Free Labs)", "url": "https://labs.play-with-docker.com/", "type": "interactive"}
+    ],
+    "Kubernetes": [
+      {"title": "Kubernetes Official Tutorial", "url": "https://kubernetes.io/docs/tutorials/", "type": "docs"},
+      {"title": "Killer.sh — Free K8s Playground", "url": "https://killer.sh/", "type": "interactive"}
+    ],
+    "Git": [
+      {"title": "Pro Git (Free Book)", "url": "https://git-scm.com/book/en/v2", "type": "book"},
+      {"title": "Learn Git Branching (Interactive)", "url": "https://learngitbranching.js.org/", "type": "interactive"}
+    ],
+    "Linux": [
+      {"title": "Linux Command Line (free book)", "url": "https://linuxcommand.org/tlcl.php", "type": "book"},
+      {"title": "OverTheWire: Bandit (Linux wargame)", "url": "https://overthewire.org/wargames/bandit/", "type": "interactive"}
+    ],
+    "AWS": [
+      {"title": "AWS Skill Builder — Free Courses", "url": "https://skillbuilder.aws/", "type": "course"},
+      {"title": "AWS Documentation", "url": "https://docs.aws.amazon.com/", "type": "docs"}
+    ],
+    "Azure": [
+      {"title": "Microsoft Learn — Azure", "url": "https://learn.microsoft.com/en-us/azure/", "type": "course"}
+    ],
+    "PostgreSQL": [
+      {"title": "PostgreSQL Official Docs", "url": "https://www.postgresql.org/docs/", "type": "docs"},
+      {"title": "PostgreSQL Tutorial", "url": "https://www.postgresqltutorial.com/", "type": "tutorial"}
+    ],
+    "MySQL": [
+      {"title": "MySQL Official Docs", "url": "https://dev.mysql.com/doc/", "type": "docs"},
+      {"title": "MySQL Tutorial", "url": "https://www.mysqltutorial.org/", "type": "tutorial"}
+    ],
+    "MongoDB": [
+      {"title": "MongoDB University (Free)", "url": "https://learn.mongodb.com/", "type": "course"},
+      {"title": "MongoDB Official Docs", "url": "https://www.mongodb.com/docs/", "type": "docs"}
+    ],
+    "Redis": [
+      {"title": "Redis University (Free)", "url": "https://university.redis.io/", "type": "course"},
+      {"title": "Redis Official Docs", "url": "https://redis.io/docs/", "type": "docs"}
+    ],
+    "FastAPI": [
+      {"title": "FastAPI Official Tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "docs"}
+    ],
+    "Spring Boot": [
+      {"title": "Spring Guides", "url": "https://spring.io/guides", "type": "docs"},
+      {"title": "Baeldung Spring Tutorials", "url": "https://www.baeldung.com/spring-boot", "type": "tutorial"}
+    ],
+    "Java": [
+      {"title": "Java Programming MOOC (Helsinki)", "url": "https://java-programming.mooc.fi/", "type": "course"},
+      {"title": "Oracle Java Tutorials", "url": "https://docs.oracle.com/javase/tutorial/", "type": "docs"}
+    ],
+    "Machine Learning": [
+      {"title": "CS229 Machine Learning (Stanford)", "url": "https://cs229.stanford.edu/", "type": "course"},
+      {"title": "Fast.ai — Practical Deep Learning", "url": "https://course.fast.ai/", "type": "course"},
+      {"title": "Scikit-learn User Guide", "url": "https://scikit-learn.org/stable/user_guide.html", "type": "docs"}
+    ],
+    "Scikit-learn": [
+      {"title": "Scikit-learn Official Docs", "url": "https://scikit-learn.org/stable/", "type": "docs"},
+      {"title": "Kaggle — Intro to ML", "url": "https://www.kaggle.com/learn/intro-to-machine-learning", "type": "course"}
+    ],
+    "TensorFlow": [
+      {"title": "TensorFlow Tutorials", "url": "https://www.tensorflow.org/tutorials", "type": "docs"},
+      {"title": "DeepLearning.AI TF Course (free audit)", "url": "https://www.coursera.org/specializations/tensorflow-in-practice", "type": "course"}
+    ],
+    "PyTorch": [
+      {"title": "PyTorch Official Tutorial", "url": "https://pytorch.org/tutorials/", "type": "docs"}
+    ],
+    "Pandas": [
+      {"title": "Pandas Official Docs", "url": "https://pandas.pydata.org/docs/", "type": "docs"},
+      {"title": "Kaggle — Pandas", "url": "https://www.kaggle.com/learn/pandas", "type": "course"}
+    ],
+    "NumPy": [
+      {"title": "NumPy Official Tutorial", "url": "https://numpy.org/learn/", "type": "docs"}
+    ],
+    "Statistics": [
+      {"title": "Khan Academy — Statistics", "url": "https://www.khanacademy.org/math/statistics-probability", "type": "course"},
+      {"title": "StatQuest with Josh Starmer (YouTube)", "url": "https://www.youtube.com/@statquest", "type": "video"}
+    ],
+    "Data Visualization": [
+      {"title": "Matplotlib Tutorials", "url": "https://matplotlib.org/stable/tutorials/", "type": "docs"},
+      {"title": "Seaborn Tutorial", "url": "https://seaborn.pydata.org/tutorial.html", "type": "docs"}
+    ],
+    "Jupyter": [
+      {"title": "Jupyter Official Docs", "url": "https://jupyter.org/documentation", "type": "docs"}
+    ],
+    "Terraform": [
+      {"title": "HashiCorp Learn — Terraform", "url": "https://developer.hashicorp.com/terraform/tutorials", "type": "course"}
+    ],
+    "Ansible": [
+      {"title": "Ansible Official Docs", "url": "https://docs.ansible.com/", "type": "docs"}
+    ],
+    "Bash": [
+      {"title": "Bash Scripting Tutorial", "url": "https://www.shellscript.sh/", "type": "tutorial"},
+      {"title": "Linux Command Line (free book)", "url": "https://linuxcommand.org/tlcl.php", "type": "book"}
+    ],
+    "CI/CD": [
+      {"title": "GitHub Actions Docs", "url": "https://docs.github.com/en/actions", "type": "docs"},
+      {"title": "GitLab CI/CD Docs", "url": "https://docs.gitlab.com/ee/ci/", "type": "docs"}
+    ],
+    "GitHub Actions": [
+      {"title": "GitHub Actions Quickstart", "url": "https://docs.github.com/en/actions/quickstart", "type": "docs"}
+    ],
+    "REST APIs": [
+      {"title": "REST API Tutorial", "url": "https://restfulapi.net/", "type": "tutorial"},
+      {"title": "FastAPI REST API Course", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "docs"}
+    ],
+    "Database Design": [
+      {"title": "Database Design (Lucidchart)", "url": "https://www.lucidchart.com/pages/database-diagram/database-design", "type": "tutorial"},
+      {"title": "CMU Database Course (free)", "url": "https://15445.courses.cs.cmu.edu/", "type": "course"}
+    ],
+    "Performance Tuning": [
+      {"title": "Use The Index, Luke! (free book)", "url": "https://use-the-index-luke.com/", "type": "book"}
+    ],
+    "Backup & Recovery": [
+      {"title": "PostgreSQL Backup Docs", "url": "https://www.postgresql.org/docs/current/backup.html", "type": "docs"}
+    ],
+    "Oracle": [
+      {"title": "Oracle Database Docs", "url": "https://docs.oracle.com/en/database/", "type": "docs"}
+    ],
+    "Cybersecurity": [
+      {"title": "TryHackMe — Free Learning Paths", "url": "https://tryhackme.com/", "type": "interactive"},
+      {"title": "Hack The Box Academy", "url": "https://academy.hackthebox.com/", "type": "interactive"}
+    ],
+    "Penetration Testing": [
+      {"title": "TryHackMe — Pentesting Path", "url": "https://tryhackme.com/path/outline/pentesting", "type": "course"},
+      {"title": "OWASP Testing Guide", "url": "https://owasp.org/www-project-web-security-testing-guide/", "type": "docs"}
+    ],
+    "Networking": [
+      {"title": "Cisco Networking Academy — Free", "url": "https://www.netacad.com/", "type": "course"},
+      {"title": "Professor Messer — CompTIA Net+ (free)", "url": "https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/", "type": "course"}
+    ],
+    "Cryptography": [
+      {"title": "Cryptography I (Stanford, Coursera)", "url": "https://www.coursera.org/learn/crypto", "type": "course"},
+      {"title": "Crypto101 (free book)", "url": "https://www.crypto101.io/", "type": "book"}
+    ],
+    "SIEM": [
+      {"title": "Splunk Free Training", "url": "https://www.splunk.com/en_us/training/free-courses.html", "type": "course"}
+    ],
+    "Firewalls": [
+      {"title": "TryHackMe — Network Security", "url": "https://tryhackme.com/room/networksecurityprotocols", "type": "course"}
+    ],
+    "Requirements Analysis": [
+      {"title": "BABOK Guide (IIBA)", "url": "https://www.iiba.org/babok-guide/", "type": "book"}
+    ],
+    "System Design": [
+      {"title": "System Design Primer (GitHub)", "url": "https://github.com/donnemartin/system-design-primer", "type": "tutorial"},
+      {"title": "Designing Data-Intensive Applications (key concepts)", "url": "https://dataintensive.net/", "type": "book"}
+    ],
+    "UML": [
+      {"title": "UML Tutorial — Sparx Systems", "url": "https://sparxsystems.com/resources/tutorials/uml/", "type": "tutorial"}
+    ],
+    "Agile": [
+      {"title": "Atlassian Agile Coach", "url": "https://www.atlassian.com/agile", "type": "tutorial"},
+      {"title": "Scrum Guide (free)", "url": "https://scrumguides.org/", "type": "docs"}
+    ],
+    "Project Management": [
+      {"title": "Google Project Management Certificate (audit free)", "url": "https://www.coursera.org/professional-certificates/google-project-management", "type": "course"}
+    ],
+    "Data Analysis": [
+      {"title": "Kaggle — Data Analysis", "url": "https://www.kaggle.com/learn", "type": "course"},
+      {"title": "Google Data Analytics Certificate (audit free)", "url": "https://www.coursera.org/professional-certificates/google-data-analytics", "type": "course"}
+    ],
+    "R": [
+      {"title": "R for Data Science (free book)", "url": "https://r4ds.had.co.nz/", "type": "book"}
+    ],
+    "Big Data": [
+      {"title": "Apache Spark Docs", "url": "https://spark.apache.org/docs/latest/", "type": "docs"},
+      {"title": "Hadoop Official Tutorial", "url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html", "type": "docs"}
+    ],
+    "Documentation": [
+      {"title": "Write the Docs Guide", "url": "https://www.writethedocs.org/guide/", "type": "tutorial"}
+    ],
+    "Testing": [
+      {"title": "Python Pytest Docs", "url": "https://docs.pytest.org/", "type": "docs"},
+      {"title": "Test-Driven Development (free chapter)", "url": "https://www.obeythetestinggoat.com/pages/book.html", "type": "book"}
+    ],
+    "Monitoring": [
+      {"title": "Prometheus Docs", "url": "https://prometheus.io/docs/", "type": "docs"},
+      {"title": "Grafana Tutorials", "url": "https://grafana.com/tutorials/", "type": "tutorial"}
+    ],
+    "Nginx": [
+      {"title": "Nginx Beginner Guide", "url": "https://nginx.org/en/docs/beginners_guide.html", "type": "docs"}
+    ],
+    "Figma": [
+      {"title": "Figma Official Tutorial", "url": "https://help.figma.com/hc/en-us/categories/360002042553", "type": "docs"}
+    ],
+    "Webpack": [
+      {"title": "Webpack Official Docs", "url": "https://webpack.js.org/concepts/", "type": "docs"}
+    ],
+    "Excel/Spreadsheets": [
+      {"title": "Microsoft Excel Training", "url": "https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb", "type": "course"},
+      {"title": "Chandoo.org — Excel Tutorials", "url": "https://chandoo.org/wp/excel-tutorials/", "type": "tutorial"}
+    ]
+  },
+  "role_roadmaps": {
+    "backend_developer": {
+      "steps": ["Python", "SQL", "REST APIs", "Git", "Linux", "Docker", "FastAPI", "PostgreSQL", "AWS"],
+      "description": "Master backend fundamentals, then progressively move to containerization and cloud deployment."
+    },
+    "frontend_developer": {
+      "steps": ["HTML", "CSS", "JavaScript", "Git", "React", "TypeScript", "REST APIs", "Testing", "Node.js"],
+      "description": "Build solid web fundamentals, then learn modern frameworks and testing practices."
+    },
+    "fullstack_developer": {
+      "steps": ["JavaScript", "HTML", "CSS", "Python", "SQL", "React", "Node.js", "REST APIs", "Git", "Docker", "PostgreSQL"],
+      "description": "Develop frontend and backend skills in parallel, then integrate with containerization."
+    },
+    "data_scientist": {
+      "steps": ["Python", "Statistics", "SQL", "NumPy", "Pandas", "Machine Learning", "Scikit-learn", "Data Visualization", "Jupyter", "TensorFlow"],
+      "description": "Build strong mathematical foundations, then progress through Python data stack to ML frameworks."
+    },
+    "devops_engineer": {
+      "steps": ["Linux", "Bash", "Git", "Python", "Docker", "Kubernetes", "CI/CD", "AWS", "Terraform", "Monitoring"],
+      "description": "Start with OS fundamentals, containerization, then cloud and automation tools."
+    },
+    "database_administrator": {
+      "steps": ["SQL", "Database Design", "PostgreSQL", "MySQL", "Performance Tuning", "Backup & Recovery", "Linux", "MongoDB", "Redis", "AWS"],
+      "description": "Master SQL fundamentals and relational databases, then expand to NoSQL and cloud databases."
+    },
+    "infosec_engineer": {
+      "steps": ["Networking", "Linux", "Python", "Cybersecurity", "Cryptography", "Firewalls", "Penetration Testing", "SIEM", "Docker", "AWS"],
+      "description": "Build networking and OS fundamentals, then progress to offensive and defensive security tools."
+    },
+    "systems_analyst": {
+      "steps": ["SQL", "Requirements Analysis", "System Design", "Python", "UML", "Agile", "REST APIs", "Data Analysis", "Testing", "Documentation"],
+      "description": "Start with analysis fundamentals and SQL, then develop technical integration and project skills."
+    }
+  }
+}
